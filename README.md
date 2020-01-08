@@ -1,5 +1,6 @@
 # MazeGame
-Maze Game Developed on Unreal Engine 4.22.3 using C++ by Javier Dalma
+Maze Game Developed on Unreal Engine 4.22.3 using C++ by Javier Dalma.
+
 This code was wrote to develop a maze game where the user moves aroud collecting keys to open doors. The maze contains traps so the player should be careful where he walks. There are also checkpoints so if the player dies it can respawn further on the level.
 
 Checkpoint Script: this scripts handles the checkpoints when the user collides with this object it will set the new spawn position and move the checkpoint down.
