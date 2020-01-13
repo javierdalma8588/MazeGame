@@ -18,3 +18,7 @@ Practica1GameModeBase Script: handles if the player has completed the objective 
 Vertical Trap Script: handles the trap movement up and down after a certain time, also damages the player on touch
 
 More comments about the code and how it works are on every .cpp and .h files
+
+If you would like to download the full project you can get it on:
+
+https://drive.google.com/open?id=1xE10rSL8-1NaG9wvqmjYrYcnFG0YxSui
